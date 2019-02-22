@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 __title__ = ''
-__file__ = '4决策树实现.py' 
+__file__ = '信贷决策树模型.py' 
 __author__ = 'Administrator'
 __mtime__ = '2019/1/24'
 # 
